@@ -1,0 +1,6 @@
+D:\Programming\LongestRange\LongestRange\bin\Debug\LongestRange.exe.config
+D:\Programming\LongestRange\LongestRange\bin\Debug\LongestRange.exe
+D:\Programming\LongestRange\LongestRange\bin\Debug\LongestRange.pdb
+D:\Programming\LongestRange\LongestRange\obj\Debug\LongestRange.csprojResolveAssemblyReference.cache
+D:\Programming\LongestRange\LongestRange\obj\Debug\LongestRange.exe
+D:\Programming\LongestRange\LongestRange\obj\Debug\LongestRange.pdb
